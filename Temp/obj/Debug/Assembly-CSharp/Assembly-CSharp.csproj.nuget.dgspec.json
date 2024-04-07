@@ -1,0 +1,971 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chays\\BLUE games\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chays\\BLUE games\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\CFXR.WelcomeScreen.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\CFXR.WelcomeScreen.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\CFXRDemo.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\CFXRDemo.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\CFXREditor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\CFXREditor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonChat.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonChat.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.Culling.Editor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.Culling.Editor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PunDemos.DemoHubEditor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PunDemos.DemoHubEditor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PunDemos.DemoSlotcarEditor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PunDemos.DemoSlotcarEditor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\ToonyColorsPro.Demo.Editor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\ToonyColorsPro.Demo.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\CFXR.WelcomeScreen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\CFXR.WelcomeScreen.csproj",
+        "projectName": "CFXR.WelcomeScreen",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\CFXR.WelcomeScreen.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\CFXR.WelcomeScreen\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\CFXRDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\CFXRDemo.csproj",
+        "projectName": "CFXRDemo",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\CFXRDemo.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\CFXRDemo\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\CFXREditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\CFXREditor.csproj",
+        "projectName": "CFXREditor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\CFXREditor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\CFXREditor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj",
+        "projectName": "CFXRRuntime",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\CFXRRuntime.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\CFXRRuntime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj",
+        "projectName": "KinoBloom.Runtime",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\KinoBloom.Runtime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonChat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonChat.csproj",
+        "projectName": "PhotonChat",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonChat.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonChat\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj",
+        "projectName": "PhotonRealtime",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonRealtime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj",
+        "projectName": "PhotonUnityNetworking",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonUnityNetworking\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj",
+        "projectName": "PhotonUnityNetworking.Demos",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonUnityNetworking.Demos\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj",
+        "projectName": "PhotonUnityNetworking.Editor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonUnityNetworking.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonUnityNetworking.Utilities\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.Culling.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.Culling.Editor.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities.Culling.Editor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.Culling.Editor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonUnityNetworking.Utilities.Culling.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities.PhotonPlayer.Editor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Editor.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PunDemos.DemoHubEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PunDemos.DemoHubEditor.csproj",
+        "projectName": "PunDemos.DemoHubEditor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PunDemos.DemoHubEditor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PunDemos.DemoHubEditor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonRealtime.csproj"
+              },
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\PunDemos.DemoSlotcarEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\PunDemos.DemoSlotcarEditor.csproj",
+        "projectName": "PunDemos.DemoSlotcarEditor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\PunDemos.DemoSlotcarEditor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\PunDemos.DemoSlotcarEditor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\PhotonUnityNetworking.Demos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chays\\BLUE games\\ToonyColorsPro.Demo.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chays\\BLUE games\\ToonyColorsPro.Demo.Editor.csproj",
+        "projectName": "ToonyColorsPro.Demo.Editor",
+        "projectPath": "C:\\Users\\chays\\BLUE games\\ToonyColorsPro.Demo.Editor.csproj",
+        "packagesPath": "C:\\Users\\chays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chays\\BLUE games\\Temp\\obj\\Debug\\ToonyColorsPro.Demo.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj": {
+                "projectPath": "C:\\Users\\chays\\BLUE games\\KinoBloom.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
